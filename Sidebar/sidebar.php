@@ -1,1 +1,27 @@
-<a class="su-button su-button-style-stroked" style="color: #ffffff; background-color: #179bd7; border-color: #127cac; border-radius: 10px; -moz-border-radius: 10px; -webkit-border-radius: 10px;" href="https://www.lediknas.com/category/bimtek-pengadaan-barang-jasa/" target="_self"><span style="color: #ffffff; padding: 8px 20px; font-size: 16px; line-height: 10px; border-color: #5db9e3; border-radius: 10px; -moz-border-radius: 10px; -webkit-border-radius: 10px; text-shadow: none; -moz-text-shadow: none; -webkit-text-shadow: none;"><i class="fa fa-book" style="font-size: 16px; color: #ffffff;"></i>Tema Bimtek PBJ</span></a>
+<a class="su-button su-button-style-stroked" style="color: #ffffff;
+  background-color: #179bd7;
+  border-color: #127cac; 
+  border-radius: 10px;
+  -moz-border-radius: 10px;
+  -webkit-border-radius: 10px;" href="
+  
+  https://www.lediknas.com/category/bimtek-pengadaan-barang-jasa/
+  
+  " target="_self">
+  <span style="color: #ffffff;
+    padding: 8px 20px;
+    font-size: 16px;
+    line-height: 10px;
+    border-color: #5db9e3;
+    border-radius: 10px;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    text-shadow: none;
+    -moz-text-shadow: none;
+    -webkit-text-shadow: none;">
+    
+    <i class="fa fa-book" style="font-size: 16px; color: #ffffff;"></i>
+    
+    Tema Bimtek PBJ
+    
+  </span></a>
